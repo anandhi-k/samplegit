@@ -1,2 +1,4 @@
 File Branch B1
 File Modfied in Branch b1
+Modified this file in master
+
